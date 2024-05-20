@@ -47,4 +47,4 @@
 [Скриншоты с демонстрацией работы keepalived](https://github.com/SeSloup/Disaster-recovery-Keepalived/tree/main/task2/screens)
 
 ------
-
+Спасибо за проверку!🧋
