@@ -17,7 +17,13 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 ### Ответ
-[Руководство по оформлению Markdown файлов](https://gist.github.co)
+![Настройка маршрутизатора](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/screenshots/Screenshot%20from%202024-05-19%2019-17-30.png)
+
+![Отправка запроса](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/screenshots/Screenshot%20from%202024-05-19%2019-17-59.png)
+
+[Ссылка на файл 1 с разравом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_01.pkt)
+
+[Ссылка на файл 2 с разравом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_02.pkt)
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
@@ -33,10 +39,11 @@
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 ### Ответ
-[Руководство по оформлению Markdown файлов](https://gist.github.co)
+[keepalived_checker.sh](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task2/keepalived_checker.sh)
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+[keepalived.conf](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task2/keepalived.conf)
+
+[Скриншоты с демонстрацией работы keepalived](https://github.com/SeSloup/Disaster-recovery-Keepalived/tree/main/task2/screens)
 
 ------
 
