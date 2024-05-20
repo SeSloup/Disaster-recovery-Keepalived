@@ -17,16 +17,17 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 ### Ответ
+`Настройка маршрутизатора`
 ![Настройка маршрутизатора](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/screenshots/Screenshot%20from%202024-05-19%2019-17-30.png)
 
+`Отправка запроса`
 ![Отправка запроса](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/screenshots/Screenshot%20from%202024-05-19%2019-17-59.png)
 
 [Ссылка на файл 1 с разравом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_01.pkt)
 
 [Ссылка на файл 2 с разравом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_02.pkt)
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+
 
 ------
 
