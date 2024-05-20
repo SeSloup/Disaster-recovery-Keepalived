@@ -23,9 +23,9 @@
 `Отправка запроса`
 ![Отправка запроса](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/screenshots/Screenshot%20from%202024-05-19%2019-17-59.png)
 
-[Ссылка на файл 1 с разравом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_01.pkt)
+[Ссылка на файл 1 с разрывом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_01.pkt)
 
-[Ссылка на файл 2 с разравом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_02.pkt)
+[Ссылка на файл 2 с разрывом Switch 0](https://github.com/SeSloup/Disaster-recovery-Keepalived/blob/main/task1/hsrp_advanced_answer_02.pkt)
 
 
 
