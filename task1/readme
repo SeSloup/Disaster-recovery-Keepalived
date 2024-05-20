@@ -1,0 +1,22 @@
+https://networklessons.com/cisco/ccie-routing-switching/hsrp-hot-standby-routing-protocol
+https://youtu.be/OTV3Qw9ey8k
+
+1) настройки роутер 2
+
+%HSRP-6-STATECHANGE: GigabitEthernet0/0 Grp 0 state Standby -> Active
+ip address 192.168.0.2 255.255.255.0
+%HSRP-6-STATECHANGE: GigabitEthernet0/0 Grp 0 state Speak -> Standby
+ip address 192.168.1.2 255.255.255.0
+
+Теперь обмен проходит в одну сторону по Роутер 1, обратно по Роутер 2 при условии что все соединения целы
+
+2) настройка на случай неисправности линии от Роутер 2 к Свитч 0
+
+комманды в cli Роутер 1 (т.к. нам надо пустить обратный трафик через Роутер 1, если Роутер 2 неисправен)
+
+enable
+config
+interface G 0/1
+standby 1 pree
+standby 1 pri 95
+end
